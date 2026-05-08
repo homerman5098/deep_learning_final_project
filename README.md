@@ -290,7 +290,7 @@ GANs and generative sequence models are evaluated differently from classifiers. 
 
 The primary quantitative metric. A steadily decreasing loss confirms the model is learning harmonic patterns. The loss curve is saved to `outputs/loss_curve.png` after training.
 
-> *(Insert loss curve image here: `outputs/loss_curve.png`)*
+![loss_curve](outputs/loss_curve.png)
 
 **2. Chord Transition Diversity**
 

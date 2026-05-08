@@ -247,7 +247,7 @@ The MIDI is synthesised to audio using a pure-Python additive synthesiser (no sy
 
 ## 6. GitHub Repository
 
-> **Link:** `https://github.com/________________________________`
+> **Link:** `https://github.com/homerman5098/deep_learning_final_project.git`
 
 The repository contains:
 - `lofi_generator.py` — the complete single-file PyTorch implementation
